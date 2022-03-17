@@ -4,7 +4,7 @@
 
 ![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was designed with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
